@@ -4,7 +4,17 @@ this is version 1
 "new-branch  - add a line from new brach in same file 'gitgit' "
 
 
+<<<<<<< HEAD
 Add from master
 Add from master
 Add from master
 Add from master
+=======
+
+added lines from new-branch 
+added lines from new-branch 
+added lines from new-branch 
+added lines from new-branch 
+added lines from new-branch 
+added lines from new-branch 
+>>>>>>> new-branch
